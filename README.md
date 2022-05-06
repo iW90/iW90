@@ -1,4 +1,4 @@
-<span style="text-align: center">
+<span align="center">
 
 # Hello World!
 
