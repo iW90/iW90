@@ -1,16 +1,42 @@
-### Hi there 👋
+<span style="text-align: center">
 
-<!--
-**iW90/iW90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World!
 
-Here are some ideas to get you started:
+![avatar](https://uploaddeimagens.com.br/images/003/857/799/original/00.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm InGrid, a fullstack developer noobie from Brazil
+
+</span>
+
+---
+
+🌱 I'm currently learning about:
+
+- C#
+- .NET
+- SQL
+- PHP
+- JavaScript
+
+---
+
+👨‍💻 I understand a little bit about:
+
+- HTML5
+- CSS3
+- Markdown
+- Photoshop
+- Figma
+- Git
+
+---
+
+📝 In the future I want to learn about mobile app development.
+
+---
+
+💕 I love:
+
+- My dogs, Shivers and Carmelita
+- Tabletop RPG
+- Lovecraftian horror stories
