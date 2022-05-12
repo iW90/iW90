@@ -1,4 +1,4 @@
-<center>
+<span align="center">
 
 # Hello World!
 
@@ -6,7 +6,7 @@
 
 ### I'm InGrid, a fullstack developer noobie from Brazil
 
-</center>
+</span>
 
 #### About me:
 
@@ -58,10 +58,8 @@ Just another programming student since jan/2022.
 
 ---
 
-<center>
+<span align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iW90&layout=compact&theme=tokyonight)](https://github.com/iW90/github-readme-stats)
 
-
-
-</center>
+</span>
