@@ -8,7 +8,7 @@
 
 </span>
 
-#### About me:
+### About me:
 
 Just another programming student since jan/2022.
 
@@ -16,7 +16,7 @@ Just another programming student since jan/2022.
 
 ---
 
-#### 👩🏼‍💻 Technical skills:
+### 👩🏼‍💻 Technical skills:
 
 - [x] Markdown
 - [x] HTML5
@@ -35,7 +35,7 @@ Just another programming student since jan/2022.
 
 ---
 
-#### 🧠 Soft skills:
+### 🧠 Soft skills:
 
 - [x] Emotional intelligence
 - [x] Analytical thinking
@@ -48,7 +48,7 @@ Just another programming student since jan/2022.
 
 ---
 
-#### 💕 Passions:
+### 💕 Passions:
 
 - [x] My dogs (Shivers and Carmelita)
 - [x] Tabletop RPG
