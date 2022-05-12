@@ -1,4 +1,4 @@
-<span align="center">
+<center>
 
 # Hello World!
 
@@ -6,28 +6,41 @@
 
 ### I'm InGrid, a fullstack developer noobie from Brazil
 
-</span>
+</center>
+
+#### About me:
+
+[![Linkedin](./linkedin.svg)](https://www.linkedin.com/in/ingridwagner/)
+
+Just another programming student since jan/2022.
 
 ---
 
-🌱 I'm currently learning about:
+#### 👩🏼‍💻 Technical skills:
 
-- C#
-- .NET
-- SQL
-- PHP
-- JavaScript
+- [x] Markdown
+- [x] HTML5
+- [x] CSS3
+- [x] Photoshop
+- [x] Figma
+- [x] Git
+- [ ] JavaScript (🌱)
+- [ ] Illustrator (🌱)
+- [ ] SQL (🌱)
+- [ ] PHP (🌱)
+- [ ] C# (🌱)
+- [ ] .NET (🌱)
+
+> (🌱: I'm currently learning)
 
 ---
 
-👨‍💻 I understand a little bit about:
+#### 🧠 Soft skills:
 
-- HTML5
-- CSS3
-- Markdown
-- Photoshop
-- Figma
-- Git
+- [x] Emotional intelligence
+- [x] Analytical thinking
+- [x] Teamwork
+
 
 ---
 
@@ -35,8 +48,20 @@
 
 ---
 
-💕 I love:
+#### 💕 Passions:
 
-- My dogs, Shivers and Carmelita
-- Tabletop RPG
-- Lovecraftian horror stories
+- [x] My dogs (Shivers and Carmelita)
+- [x] Tabletop RPG
+- [x] Lovecraftian horror stories
+- [x] Puzzle Games
+- [x] Teas
+
+---
+
+<center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iW90&layout=compact&theme=tokyonight)](https://github.com/iW90/github-readme-stats)
+
+
+
+</center>
