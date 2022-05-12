@@ -10,9 +10,9 @@
 
 #### About me:
 
-[![Linkedin](./linkedin.svg)](https://www.linkedin.com/in/ingridwagner/)
-
 Just another programming student since jan/2022.
+
+[![Linkedin](./linkedin.svg)](https://www.linkedin.com/in/ingridwagner/)
 
 ---
 
