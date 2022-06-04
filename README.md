@@ -31,7 +31,7 @@ Just another programming student since jan/2022.
 - [ ] C# (🌱)
 - [ ] .NET (🌱)
 
-> (🌱: I'm currently learning)
+> (🌱: currently learning)
 
 ---
 
@@ -39,12 +39,7 @@ Just another programming student since jan/2022.
 
 - [x] Emotional intelligence
 - [x] Analytical thinking
-- [x] Teamwork
-
-
----
-
-📝 In the future I want to learn about mobile app development.
+- [x] Teamwork //Let's Go Team!
 
 ---
 
