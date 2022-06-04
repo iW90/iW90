@@ -39,7 +39,7 @@ Just another programming student since jan/2022.
 
 - [x] Emotional intelligence
 - [x] Analytical thinking
-- [x] Teamwork //Let's Go Team!
+- [x] Teamwork *//Let's Go Team!*
 
 ---
 
