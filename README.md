@@ -12,7 +12,7 @@
 
 Just another programming student since jan/2022.
 
-[![Linkedin](./linkedin.svg)](https://www.linkedin.com/in/ingridwagner/) [![CurriculumVitae](./curriculo.svg)](https://www.cvkeep.com/cv/ingridwagner)
+[![Linkedin](./linkedin.svg)](https://www.linkedin.com/in/ingridwagner/)
 
 ---
 
