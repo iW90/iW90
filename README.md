@@ -2,7 +2,7 @@
 
 # Hello World!
 
-[![Foto](https://uploaddeimagens.com.br/images/003/857/829/original/Lkd3.png)](https://www.linkedin.com/in/ingridwagner/)
+[![Foto](https://uploaddeimagens.com.br/images/003/857/829/original/Lkd3.png)](https://www.linkedin.com/in/ingridwagner/) [![Foto](https://uploaddeimagens.com.br/images/003/892/844/original/curriculum.png)](https://www.cvkeep.com/cv/ingridwagner)
 
 ### I'm InGrid, a fullstack developer noobie from Brazil
 
