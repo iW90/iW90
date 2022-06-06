@@ -10,7 +10,7 @@
 
 ### About me:
 
-Just another programming student since jan/2022.
+I have started in the programming world in January 2022 and my current goal is to become a fullstack web developer. In the future I also intend to learn about mobile app development.
 
 [![Linkedin](./linkedin.svg)](https://www.linkedin.com/in/ingridwagner/)
 
