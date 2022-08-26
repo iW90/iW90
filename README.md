@@ -24,8 +24,8 @@ I have started in the programming world in January 2022 and my current goal is t
 - [x] Photoshop
 - [x] Figma
 - [x] Git
-- [x] C
-- [x] Shell
+- [x] C (🌱)
+- [x] Shell (🌱)
 - [ ] JavaScript (🌱)
 - [ ] Illustrator (🌱)
 - [ ] SQL (🌱)
