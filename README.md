@@ -10,7 +10,7 @@
 
 ### About me:
 
-I have started in the programming world in January 2022 and my current goal is to become a fullstack web developer. In the future I also intend to learn about mobile app development.
+I have started in the programming world in January 2022 and my current goal is to become a fullstack web developer. In the future I also intend to learn about mobile app development, cybersecurity and others.
 
 [![Linkedin](./linkedin.svg)](https://www.linkedin.com/in/ingridwagner/)
 
@@ -26,12 +26,13 @@ I have started in the programming world in January 2022 and my current goal is t
 - [x] Git
 - [x] C (🌱)
 - [x] Shell (🌱)
+- [x] C# (🌱)
+- [x] .NET (🌱)
+- [x] SQL (🌱)
 - [ ] JavaScript (🌱)
 - [ ] Illustrator (🌱)
-- [ ] SQL (🌱)
 - [ ] PHP (🌱)
-- [ ] C# (🌱)
-- [ ] .NET (🌱)
+
 
 > (🌱: currently learning)
 
