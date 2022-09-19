@@ -61,3 +61,5 @@ I have started in the programming world in January 2022 and my current goal is t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iW90&layout=compact&theme=tokyonight)](https://github.com/iW90/github-readme-stats)
 
 </span>
+
+![Snake animation](https://github.com/iW90/iW90/blob/output/github-contribution-grid-snake.svg)
