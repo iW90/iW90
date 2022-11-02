@@ -56,12 +56,12 @@ I have started in the programming world in January 2022 and my current goal is t
 
 ---
 
-<span align="center">
+<div align="center">
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iW90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iW90&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   
-</span>
+</div>
 
 ![Snake animation](https://github.com/iW90/iW90/blob/output/github-contribution-grid-snake.svg)
 
