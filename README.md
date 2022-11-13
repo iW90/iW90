@@ -67,6 +67,4 @@ I have started in the programming world in January 2022 and my current goal is t
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iW90&color=blueviolet" alt="Profile views"/></p>
  
----
- 
 </div>
