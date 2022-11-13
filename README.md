@@ -60,9 +60,13 @@ I have started in the programming world in January 2022 and my current goal is t
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iW90&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iW90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
-
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=iW90&color=blueviolet" alt="Profile views"/></p>
-  
+ 
 ![Snake animation](https://github.com/iW90/iW90/blob/output/github-contribution-grid-snake.svg)
-  
+
+---
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=iW90&color=blueviolet" alt="Profile views"/></p>
+ 
+---
+ 
 </div>
