@@ -10,7 +10,7 @@
 
 ### About me:
 
-I have started in the programming world in January 2022 and my current goal is to become a fullstack web developer. In the future I also intend to learn about mobile app development, cybersecurity and others.
+Let me introduce myself: I'm Ingrid, human coder and I have started in the programming world in January 2022. I started with Web Development, but on this journey I found out that I love the C and C# languages, my current objects of study. I also started a new degree, a Bachelor's in Computer Engineering, and at the same time I'm taking associate's degree in Software Engineering on 42SP. In the future I also intend to learn about mobile app development, cybersecurity and others.
 
 [![Linkedin](./linkedin.svg)](https://www.linkedin.com/in/ingridwagner/)
 
