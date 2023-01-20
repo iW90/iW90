@@ -58,6 +58,8 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 
 <div align="center">
 
+[![inwagner's 42 stats](https://badge42.vercel.app/api/v2/clc1y7zdh00160fldpbvqpt6e/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iW90&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iW90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
  
