@@ -16,6 +16,16 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 
 ---
 
+### 💻 42SP Status:
+
+<div align="center">
+
+[![inwagner's 42 stats](https://badge42.vercel.app/api/v2/clc1y7zdh00160fldpbvqpt6e/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+ 
+</div>
+
+---
+
 ### 👩🏼‍💻 Technical skills:
 
 > (🌱: currently learning)
@@ -37,16 +47,6 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 - [x] Emotional intelligence
 - [x] Analytical thinking
 - [x] Teamwork *//Let's Go Team!*
-
----
-
-### ㊷ 42SP Status:
-
-<div align="center">
-
-[![inwagner's 42 stats](https://badge42.vercel.app/api/v2/clc1y7zdh00160fldpbvqpt6e/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
- 
-</div>
 
 ---
 
