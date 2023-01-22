@@ -36,14 +36,6 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 
 ---
 
-### 🧠 Soft skills:
-
-- [x] Emotional intelligence
-- [x] Analytical thinking
-- [x] Teamwork *//Let's Go Team!*
-
----
-
 ### 💕 Passions:
 
 - [x] My dogs (Shivers and Carmelita)
