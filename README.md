@@ -36,6 +36,8 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 
 > (🌱: currently learning)
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,c,cpp,cs,dotnet,ps,figma,git,mongodb,mysql,linux)]
+
 ---
 
 ### 🧠 Soft skills:
