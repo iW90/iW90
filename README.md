@@ -16,7 +16,7 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 
 <div align="center">
 
-[[![inwagner's 42 stats](https://badge42.vercel.app/api/v2/clc1y7zdh00160fldpbvqpt6e/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)](https://profile.intra.42.fr/users/inwagner)
+[![inwagner's 42 stats](https://badge42.vercel.app/api/v2/clc1y7zdh00160fldpbvqpt6e/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
  
 </div>
 
