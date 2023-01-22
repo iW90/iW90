@@ -2,7 +2,7 @@
 
 # Hello World!
 
-[![Foto](https://uploaddeimagens.com.br/images/003/857/829/original/Lkd3.png)](https://www.linkedin.com/in/ingridwagner/)
+[![Foto](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
 
 ### I'm InGrid, a fullstack developer noobie from Brazil
 
