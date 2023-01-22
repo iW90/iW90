@@ -18,25 +18,9 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 
 ### 👩🏼‍💻 Technical skills:
 
-- [x] Markdown
-- [x] HTML5
-- [x] CSS3
-- [x] Photoshop
-- [x] Figma
-- [x] Git
-- [x] C (🌱)
-- [x] Shell (🌱)
-- [x] C# (🌱)
-- [x] .NET (🌱)
-- [x] SQL (🌱)
-- [ ] JavaScript (🌱)
-- [ ] Illustrator (🌱)
-- [ ] PHP (🌱)
-
-
 > (🌱: currently learning)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,md,c,cpp,cs,dotnet,ps,figma,git,mongodb,mysql,linux)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,md,c,cpp,cs,dotnet,ps,figma,git,mongodb,mysql,linux)
 
 ---
 
