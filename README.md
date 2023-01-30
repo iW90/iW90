@@ -36,16 +36,6 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 
 ---
 
-### 💕 Passions:
-
-- [x] My dogs (Shivers and Carmelita)
-- [x] Tabletop RPG
-- [x] Lovecraftian horror stories
-- [x] Puzzle Games
-- [x] Teas
-
----
-
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iW90&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
