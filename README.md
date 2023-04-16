@@ -1,10 +1,10 @@
-<span align="center">
+<div align="center">
 
 # Hello World!
 
 ![Foto](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
 
-</span>
+</div>
 
 Let me introduce myself: I'm Ingrid, human coder and I have started in the programming world in January 2022. I started with Web Development, but on this journey I found out that I love the C and C# languages, my current objects of study. I also started a new degree, a Bachelor's in Computer Engineering, and at the same time I'm cadet at 42SP. In the future I also intend to learn about mobile app development, cybersecurity and others.
 
