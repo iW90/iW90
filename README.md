@@ -39,7 +39,7 @@ Let me introduce myself: I'm Ingrid, human coder and I have started in the progr
 <div align="center">
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iW90&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=iW90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=iW90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github"/>
  
 ![Snake animation](https://github.com/iW90/iW90/blob/output/github-contribution-grid-snake.svg)
 
