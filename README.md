@@ -6,7 +6,7 @@
 
 </div>
 
-Let me introduce myself: I'm Ingrid, human coder and I have started in the programming world in January 2022. I started with Web Development, but on this journey I found out that I love the C and C# languages, my current objects of study. I also started a new degree, a Bachelor's in Computer Engineering, and at the same time I'm cadet at 42SP. In the future I also intend to learn about mobile app development, cybersecurity and others.
+Hey there! I'm Ingrid, a human coder who embarked on her programming journey back in January 2022. I initially dipped my toes into the vast world of Web Development, but along the way, I discovered a deep affection for the C and C# languages, which are currently my main study focus. In addition to my coding adventures, I've taken up a Bachelor's degree in Computer Engineering. Oh, and I'm also a cadet at 42SP, because why not take on another exciting challenge? Looking ahead, I've got big plans! I'm determined to dive into software architecture, and who knows what else the future holds. The coding universe is my oyster! 🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingridwagner/) 
 [![Dev.to](https://img.shields.io/badge/dev.to-592693?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/iw90) 
