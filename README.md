@@ -12,7 +12,6 @@ Hey there! I'm Ingrid, a human coder who embarked on her programming journey bac
 [![Dev.to](https://img.shields.io/badge/dev.to-592693?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/iw90) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/indyabrada/) 
 [![Github](https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ingrid-w) 
-
 ---
 
 ### 👩🏼‍💻 Technical skills:
