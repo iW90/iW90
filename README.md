@@ -2,7 +2,7 @@
 
 # Hello World!
 
-![Foto](moon_byhdd.gif)
+![Foto](./assets/working_byhdd.gif)
 
 </div>
 
