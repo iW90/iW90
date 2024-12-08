@@ -6,7 +6,7 @@
 
 </div>
 
-Hey there! I'm Ingrid, a human coder who embarked on her programming journey back in January 2022. I initially dipped my toes into the vast world of Web Development, but along the way, I discovered a deep affection for the C and C# languages, which are currently my main study focus. In addition to my coding adventures, I've taken up a Bachelor's degree in Computer Engineering. Oh, and I'm also a cadet at 42SP, because why not take on another exciting challenge? Looking ahead, I've got big plans! I'm determined to dive into software architecture, and who knows what else the future holds. The coding universe is my oyster! 🚀
+Hey there! I'm Ingrid, a _human coder_ who embarked on my programming journey back in January 2022. I initially dived into the world of Web Development, but along the way, I discovered a strong interest in C and C#, which are now my main focus of study. In addition to my coding adventures, I'm pursuing a Bachelor's in Information Technology (IT), which has been a great way to deepen my knowledge. And to keep things interesting, I'm also a cadet at 42SP, because I love embracing new challenges! 😄 I currently work with Python, cloud, and I often use Terraform to manage the infrastructure for cloud components. I'm always looking for ways to expand my skills, and I can’t wait to see where this journey takes me. 🚀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingridwagner/) 
 [![Dev.to](https://img.shields.io/badge/dev.to-592693?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/iw90) 
